@@ -1,6 +1,6 @@
 {
-  "name": "inet-website",
-  "version": "0.2.0",
+  "name": "conceptor-website",
+  "version": "0.1.0",
   "private": true,
   "scripts": {
     "dev": "vite",

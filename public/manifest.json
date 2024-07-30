@@ -1,7 +1,5 @@
 {
-  "name": "iNet",
-  "short_name": "iNet",
-  "description": "Programmnig with interaction nets.",
+  "name": "Conceptor",
   "display": "standalone",
   "start_url": "/",
   "theme_color": "#ffffff",

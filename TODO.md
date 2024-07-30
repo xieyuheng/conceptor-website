@@ -1,2 +1,2 @@
-change project name
 remove code for inet
+try jsx in vue

@@ -1,7 +1,6 @@
-# iNet Website
+# Conceptor Website
 
-[ [Visit](https://inet.run)
-| [Main Repo](https://github.com/cicada-lang/inet-js) ]
+[ [Main Repo](https://github.com/cicada-lang/conceptor) ]
 
 ## Development
 
