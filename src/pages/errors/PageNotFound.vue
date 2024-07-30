@@ -1,8 +1,5 @@
 <script setup lang="ts">
 import { Head } from '@vueuse/head'
-import { useRoute } from 'vue-router'
-
-const route = useRoute()
 </script>
 
 <template>
@@ -18,7 +15,7 @@ const route = useRoute()
         Page Not Found
       </div>
 
-      <div class="overflow-x-auto">{{ route.fullPath }}</div>
+      <div class="overflow-x-auto">{{ $route.fullPath }}</div>
     </div>
   </div>
 </template>
