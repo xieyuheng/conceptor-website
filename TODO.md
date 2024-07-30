@@ -1,1 +1,0 @@
-try jsx in vue
